@@ -1,26 +1,21 @@
 ---
-title: 🪴 Quartz 3.3
+
+title: alcaemre.com
+
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+Sometimes I wonder what the ancient humans thought as they looked to the motions of the stars--as they told their myths of gods and heroes immortalized in the constellations. I imagine that the explanation that these lights in the sky are burning balls of gas sitting unimaginable distances away similarly unlikely to their mythologies. These people were faced with patterns they could not help but notice, but had no way to describe--and so they wondered. Time passed the the motions of the stars became less mysterious.
 
-1. Extremely fast natural-language [[notes/search|search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+A part of nature that seems to remain as mysterious as it was in ancient times is the realm of [[jargon/emergence|emergence]].
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+![murmuration of starlings](notes/images/7uUb.gif)
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+This is a murmuration of starlings--a flock of little birds. Each starling is entirely unaware of the incredible geometry made by the flock's collective motion. This is emergence--a physical population where the sum is properly greater than the sum of its parts--where the collective behaves in ways that could never be found in the individuals themselves.
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+Emergent systems have a certain kind of intoxicating magic to them. One you are aware of their existence they become inescapable. Every living system, every mountain range, even the cracking of sand, exhibit emergent behavior. Not only that, but one seeming characteristic of emergent patterns is that they are very easy to notice, but very difficult to describe.
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+{insert image of voronoi patterns here}
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+My interest in emergence started as a metaphysical one: [[articles/emergence-of-objects|how does abstract thought emerge from sensory information entering the brain?]]
 
+> ...still in progress...

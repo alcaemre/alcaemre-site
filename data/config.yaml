@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Emre Alca
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -15,10 +15,11 @@ GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  A personal site to explore the intersection of physics, philosophy,
+  computation, biology, and visual art as they create a complete study of
+  emregent phenomena
 page_title:
-  "🪴 Quartz 3.3"
+  "alcaemre"
 links:
   - link_name: Twitter
     link: https://twitter.com/_jzhao
