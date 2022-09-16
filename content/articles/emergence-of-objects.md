@@ -1,15 +1,9 @@
 ---
-title: "The Question of the Emergence of Ontologies"
+title: "On the Emergence of Ontologies"
 ---
+>How does sensory information become abstract thought?
 
-The question that began this journey into complex systems science is a bit of strange one.
-
-> *When I am looking at a glass on a table, there is some light that refracts off of it that just so happen to be absorbed by my eye and turned into neuronal impulses. How do these impulses turn into the thought of the object that is good at holding liquid?*
-
-
-Or, more succinctly:
-
->What is the physical phenomena that brings about abstract thought?
+What is the physical phenomena that brings about abstract thought?
 
   
 
