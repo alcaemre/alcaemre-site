@@ -12,7 +12,7 @@ If you are new here, I would highly recommend you read my [[articles/mission-sta
 
 # Projects:
 ## Doing vs. Being
-This is the notion that there is a difference between being able to do the things that a system can do
+This is the notion that there is a difference between being able to do the things that a system can do lorem ipsum test
 
 
 
