@@ -1,5 +1,4 @@
 ---
-
 title: alcaemre.com
 tags:
 - projects
@@ -12,7 +11,14 @@ If you are new here, I would highly recommend you read my [[articles/mission-sta
 
 # Projects:
 ## Doing vs. Being
-This is the notion that there is a difference between being able to do the things that a system can do lorem ipsum test
+In Cognitive Science at least, [[jargon/Functionalism|Functionalism]] has been the stance used to define minds for a long time--that to be a mind is to be capable of what minds do. Dretske says that mind must have the capacity to represent information, but also misrepresent information. Others say that a systesm must be able to attribute mental states, or perform some judgement of relevance realization (i.e. the intelligent ignoring of the vast majority of information) to be a mind. 
+
+Aman Bhargava and I have been considering another notion: what if functionalism is looking at the problem at the wrong level. Most minds that are discussed, be that human minds, animal minds, or the collective mind of an ant colony (an example I will often use), they [[jargon/emergence|emerge]] from the interaction of large numbers of discrete parts--akin to a murmuration of starlings. The intuition or thesis is that two systems that exhibit the same emergent behavior are comprised of parts that follow analagous rules. That it is not the mental states that must have a functional lens put on them, but the neuron, or the ant.
+
+The purpose of this project is to develop this stance, pulling from Philosophy of Mind, Mathematics and Computation, Shannon Information, Thermodynamics and Statistical Physics. 
+
+Aman and I believe that this notion holds true not only for the creation of minds, but the engineering of any [[jargon/Complex System|complex system]].
+
 
 
 
