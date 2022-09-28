@@ -1,0 +1,29 @@
+---
+title: "Instrumentality and the Extended Mind"
+tags:
+- "PHL340"
+---
+
+> This is the outline for a short presentation I gave on September 30, 2022 for PHY340: Issues in Philosophy of Mind at the University of Toronto, taught by Dr. Daniel Munroe
+
+In [*The Extended Mind*](https://www.jstor.org/stable/3328150) Clarke and Chalmers argue that the tools that augment cognition are not only extensions of the mind, but should be regarded as a part of the mind itself. They use the example of a person playing Tetris™, who uses the the rotation of the shapes not to *position* the tetronimo, but to *determine* whether the tetronimo is compatible with a particular position. The rotation function of the game is *doing cognitive work* for the player. This determinative (i.e. cognitive, non-physical) action is referred to as an *epistemic* action--it reveals information rather than changing some part of the world (which would be *pragmatic* action). Clarke and Chalmers believe that epistemic actions deserve epistemic credit.
+
+This is their notion of *active externalism*--that external cognitive processes are still cognitive, and should be considered a part of the mind. That a person connected with some external cognitive augmentation becomes a *coupled system* where the cognitive processes of the person become subject to the causes and constraints--the form--of the external system.
+
+Much of their paper is concerned with address the issue that these coupled systesm may be too easily *decoupled*. Clarke and Chalmers try to resolve this issue by saying that the potential for decoupling does not damage the theory, since these external systems become a part of the mind when they become so reliably coupled us that they become "part of the package of cognitive resources that [we] bring to bear on the everyday world" (11).
+
+Clarke and Chalmers further support this claim with the notion of prosthetic memory. They describe Inga, who hears about an exhibition at the Museum of Modern Art (MoMA). Knowing that the MoMA is on 53rd Street, she walks there and visits the museum. They contrast Inga's experience with that of Otto, who has Alzheimer's disease. Otto has learned to use a notebook to act as the part of his cognitive system that stores information like the location of the MoMA. Otto may not know where to go to see this exhibition, but as long as Otto has his notebook to refer back to, he is just as capable of finding the MoMA as Inga is. Otto and his notebook, as a coupled system, are functionally equivalent (at least constrained to the task of navigating to the MoMA) as Inga is.
+
+This notion of technology acting augmenting the mind, both in the sense of doing cognitive work and in altering the kind of work the mind can do, is all too familiar today. Smartphones act as a map, compass, encyclopedia, calculator, and the most sophisticated notebook coinceivable to Clarke and Chalmers in the 90's. The notion of extended cognition is all but irrefutable.
+
+Where I struggle to follow Clarke and Chalmers is with epistemic credit--that these augmentations become a part of the mind when they become reliably coupled. As I see it, every example of the extended mind us an example of the minds ability to construct ontolgies and use them to understand how to effectively operate in the world. By this is mean that we can look at the objects around us in the world, construct their form, their structural functional organization, the way they act in the world, and decide how we should act accordingly. I struggle to really see the distinction between pragmatic action and epistemic action--or rather, for a pragmatic action to take place, it must be informed by an epistemic action caused by a coupling between the person and the object being manipulated.
+
+When I pick up a pen, my body and mind *grasp* the object. My hand changes shape to best hold the pen in a way that affords writing, and so does my mind. The pen *acts as though* it is a part of me. I would really struggle to say that these augmentations *actually become* a part of my body or a part of my mind.
+
+When a person drives a car, they become subject to the causes and constraints of the vehicle itself. They become quickly aware of the way the pedals and steering wheel and gear shifter control the dynamics of the car. They become aware of its shape and size and avoid obstacles as if the body of the car was their own body. But they can also get out of the car and operate just as well in the world. The operative cognition here is the ability to continuously and dynamically couple and decouple with objects in the world. 
+
+This creates an important dilemmma. If Clarke and Chalmer's stance that epistemic actions deserve epistemic credit is maintained, then any distinction between the mind and world dissolves, and the distinction loses any meaning. On the other hand, the notion of extension cannot be eliminated. It is clear that this kind of mental augmentation does happen.
+
+Perhaps a discussion of prothetics can start to bring us towards a stance on this dilemma. Clarke and Chalmers speak of prosthetic memory, but lets extend this to a physical prosthesis Is a prosthetic limb a part of the body in the same way that a non-prosthetic limb is a part of the body? What if we take this one step further away. A person with a broken leg is able to walk with the help of crutches, do those crutches become a part of her body for the duration that they are necessary? I would hesitate to say yes, but I would also hesitate to say that they are not. I would be even more hesitant to take a hard stance when we are talking about synthetic limbs, especially given [how advanced bionics has become in the last 10 years](https://www.youtube.com/watch?v=PLk8Pm_XBJE).
+
+This is the discussion question. Are prosthetics a part of the self? Where should we draw the line between mind an world? Between body and not-body?
