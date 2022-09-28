@@ -28,4 +28,5 @@ Perhaps a discussion of prothetics can start to bring us towards a stance on thi
 
 This is the discussion question. Are prosthetics a part of the self? Where should we draw the line between mind an world? Between body and not-body?%%
 
-Where I struggle to follow Clarke and Chalmers is in the distinction between epistemic and pragmatic action. The article itself introduces these terms but sort of glosses over them. The example of epistemic action used is the Tetris player using the "rotate" function to see if a tetronimo fits in a particular place rather than performing the rotation mentally. Clarke and Chalmers example of a pragmatic action 
+Where I struggle to follow Clarke and Chalmers is in the distinction between epistemic and pragmatic action. The article itself introduces these terms but sort of glosses over them. The example of epistemic action used is the Tetris player using the "rotate" function to see if a tetronimo fits in a particular place rather than performing the rotation mentally. Clarke and Chalmers' example of a pragmatic action is the plugging of a hole in a dam. These examples are not very helpful, so lets consider some new ones.
+
