@@ -16,17 +16,24 @@ Clarke and Chalmers further support this claim with the notion of prosthetic mem
 
 This notion of technology acting augmenting the mind, both in the sense of doing cognitive work and in altering the kind of work the mind can do, is all too familiar today. Smartphones act as a map, compass, encyclopedia, calculator, and the most sophisticated notebook coinceivable to Clarke and Chalmers in the 90's. The notion that cognition can be extended is all but irrefutable.
 
-%%Where I struggle to follow Clarke and Chalmers is with epistemic credit--that these augmentations become a part of the mind when they become reliably coupled. As I see it, every example of the extended mind us an example of the minds ability to construct ontolgies and use them to understand how to effectively operate in the world. By this is mean that we can look at the objects around us in the world, construct their form, their structural functional organization, the way they act in the world, and decide how we should act accordingly. I struggle to really see the distinction between pragmatic action and epistemic action--or rather, for a pragmatic action to take place, it must be informed by an epistemic action caused by a coupling between the person and the object being manipulated.
-
-When I pick up a pen, my body and mind *grasp* the object. My hand changes shape to best hold the pen in a way that affords writing, and so does my mind. The pen *acts as though* it is a part of me. I would really struggle to say that these augmentations *actually become* a part of my body or a part of my mind.
-
-When a person drives a car, they become subject to the causes and constraints of the vehicle itself. They become quickly aware of the way the pedals and steering wheel and gear shifter control the dynamics of the car. They become aware of its shape and size and avoid obstacles as if the body of the car was their own body. But they can also get out of the car and operate just as well in the world. The operative cognition here is the ability to continuously and dynamically couple and decouple with objects in the world. 
-
-This creates an important dilemmma. If Clarke and Chalmer's stance that epistemic actions deserve epistemic credit is maintained, then any distinction between the mind and world dissolves, and the distinction loses any meaning. On the other hand, the notion of extension cannot be eliminated. It is clear that this kind of mental augmentation does happen.
-
-Perhaps a discussion of prothetics can start to bring us towards a stance on this dilemma. Clarke and Chalmers speak of prosthetic memory, but lets extend this to a physical prosthesis Is a prosthetic limb a part of the body in the same way that a non-prosthetic limb is a part of the body? What if we take this one step further away. A person with a broken leg is able to walk with the help of crutches, do those crutches become a part of her body for the duration that they are necessary? I would hesitate to say yes, but I would also hesitate to say that they are not. I would be even more hesitant to take a hard stance when we are talking about synthetic limbs, especially given [how advanced bionics has become in the last 10 years](https://www.youtube.com/watch?v=PLk8Pm_XBJE).
-
-This is the discussion question. Are prosthetics a part of the self? Where should we draw the line between mind an world? Between body and not-body?%%
-
 Where I struggle to follow Clarke and Chalmers is in the distinction between epistemic and pragmatic action. The article itself introduces these terms but sort of glosses over them. The example of epistemic action used is the Tetris player using the "rotate" function to see if a tetronimo fits in a particular place rather than performing the rotation mentally. Clarke and Chalmers' example of a pragmatic action is the plugging of a hole in a dam. These examples are not very helpful, so lets consider some new ones.
 
+Let's imagine a mathemetician who writes equations on a chalkboard to be able to track his algebra. Take the chalkboard away, and now the algebra is much more difficult. The chalkboard acts as a kind of prosthetic memory, augmenting the person's ability to do math. There is epistemic work being done by the chalkboard to aid in the doing of math--the act of holding the previous equation is an epistemic action.
+
+Now lets imagine carpenter who uses a hammer and nails and wood to build houses. There is pragmatic work being done by the nails that hold the pieces of the house together. 
+
+The issue that I have is that any pragmatic action is facilitated some epistemic action--the use of tools to do work is afforded by the  way that they extend the mind. The cliche even is 'when all you have is a hammer, everythign is a nail'. Tools change the way we interact with the world. That being said, I struggle to say that tools become a part of the mind when we use them, or use them so regularly that we feel as though we are missing something without them.
+
+If we take away the hammer away from a craftsman, they cannot do their work. But have we removed a part of their body? I would hesitate to say yes.
+
+Let's go further. Say someone breaks their leg, and while their leg is in a cast, they must use crutches to walk. If we take away their crutches, have we taken away a part of their body? I would still hesitate to say yes.
+
+Where it really gets muddy is when we speak of a person with a prosthetic limb. If we remove the limb, have we removed part of the body? In this case I would still hesitate to say yes, but I would be more sympathetic with the notion that we have.
+
+If we say no to these points, how can we rightly say that we remove part of the mathematician's mind if we remove his chalkboard, or remove part of Otto's mind when we remove his notebook?
+
+As I see it, there are prosthetics and there are augmentations. Prosthetics replace or offload existing cognitive functions. Augmentations afford new cognitive functions. I believe this is true regardless of whether the body or the mind is the thing that is being directly extended. The hammer acts as an extension of the arm when it is held, but it also afford the mind new methods of constructing physical structures. Therefore pragmatic actions are only afforded by the epistemic action of the tools that facilitate them.
+
+This creates an important dilemmma. If Clarke and Chalmer's stance that epistemic actions deserve epistemic credit is maintained, then any distinction between the mind and world dissolves, and the distinction loses any meaning. On the other hand, the notion of extension cannot be eliminated. 
+
+This is the discussion question. Are prosthetics a part of the self? Where should we draw the line between mind an world? Between body and not-body
