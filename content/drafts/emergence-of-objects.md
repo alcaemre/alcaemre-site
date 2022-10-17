@@ -21,4 +21,4 @@ I expect I will be wrong left right and center, and that my perspective will cha
 
   
 
-Let's begin this journey with a discussion of the [[articles/maximally-presice-language|bounds of what we can study presicesly]].
+Let's begin this journey with a discussion of the [[maximally-presice-language|bounds of what we can study presicesly]].
