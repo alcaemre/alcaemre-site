@@ -23,6 +23,9 @@ tags:
 - "To say that a mental state has intentional content is to say that it has certain semantic properties." (Fodor, 122)
 	-  "There is at least one kind of thing other than a mental state that has intentional content: a symbol." (Fodor, 122)
 - Use Dretske
+	- "The idea behind this proscription of intentional ingredients seems to be that since what we are trying to build-a thought-is an intentional product, our recipe cannot use intentional ingredients." ... "This, it seems to me, is a mistake, a mistake that has led some philosophers to despair of ever finding a naturalistic recipe for the mind." (Dretske 470)
+		- intentional products are to the mind what copper is to an amplifier
+			- "What we are trying to understand, after all, is not intentionality, per se, but the mind. Thought may be intentional, but that is not the property we are seeking a recipe to understand." (Dretske 470)
 
 # Is it possible for a non-human machine to believe the very same thing as you. i.e. to have a belief that has the same intentional content as one of your beliefs?
 

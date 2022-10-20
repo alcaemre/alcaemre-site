@@ -10,7 +10,6 @@ tags:
 preferably Masashi Yamamoto
 - 135-150mm Petty
 - 165-180mm Santoku
-- 210mm Gyuto (thin)
 
 ## Carbon
 many makers, definitely want a Moritaka of some kind

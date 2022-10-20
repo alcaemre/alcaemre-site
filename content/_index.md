@@ -5,9 +5,9 @@ tags:
 - meta
 ---
 
-Hello and welcome to my site dedicated to my exploration of the interdisciplinary web that is the study of complex systems. 
+Hello and welcome to Emre Alca's site! 
 
-If you are new here, I would highly recommend you read my [[articles/mission-statement|mission statement]] so that you can have a decent idea of what I am about. To understand my approach to writing I would direct you towards my other meta-articles like [[articles/on-humility|On Humility]]. 
+If you are new here, I (Emre) would highly recommend you read my [[articles/mission-statement|mission statement]] so that you can have a decent idea of what I am about. To understand my approach to writing I would direct you towards my other meta-articles like [[articles/on-humility|On Humility]]. 
 
 # Projects:
 ## Doing vs. Being
@@ -21,7 +21,7 @@ The purpose of this project is to develop this stance, pulling from Philosophy o
 
 Aman and I believe that this notion holds true not only for the creation of minds, but the engineering of any [[jargon/Complex System|complex system]]. 
 > Articles:
-> 	[[articles/dvb-thesis|Doing vs. Being -- Understanding the Thesis]] (October 21, 2022)
+> 	[[articles/dvb-thesis|Doing vs. Being -- Understanding the Thesis]] (October 19, 2022)
 
 
 
