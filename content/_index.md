@@ -20,7 +20,8 @@ The central intuition of this project is that any two systems that exhibit the s
 The purpose of this project is to develop this stance, pulling from Philosophy of Mind, Mathematics and Computation, Shannon Information, Thermodynamics and Statistical Physics. 
 
 Aman and I believe that this notion holds true not only for the creation of minds, but the engineering of any [[jargon/Complex System|complex system]]. 
-> The first article on the topic will be released on October 19, 2022
+> Articles:
+> 	[[articles/dvb-thesis|Doing vs. Being -- Understanding the Thesis]] (October 21, 2022)
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "My Compass"
+title: "Mission Statement"
 tags:
 - "#meta" 
 ---
