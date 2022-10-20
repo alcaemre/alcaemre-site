@@ -8,7 +8,7 @@ tags:
 
 The purpose of this article is to understand what *Doing vs. Being* is claiming. Many of the details of this argument will have their own articles, where their nuances will be thoroughly explored.
 
-The central claim of *Doing vs. Being* is that *if two systems display the same emergent behavior, they are homomorphism of one another.* This is a very non-trivial claim, which makes it difficult for me to call it a hypothesis or a theory. For now, it is just an intuition. I aim to explore its validity together with you, the reader, as it develops in these articles.
+The central claim of *Doing vs. Being* is that *if two systems display the same emergent behavior, they have a  homomorphic relationship.* This is a very non-trivial claim, which makes it difficult for me to call it a hypothesis or a theory. For now, it is just an intuition. I aim to explore its validity together with you, the reader, as it develops in these articles.
 
 # What is a Homomorphism?
 The concept of a homomorphism was introduced to me by my nonlinear dynamics instructor. This was less of a technical introduction, but rather to motivate what it means to do physics. 
