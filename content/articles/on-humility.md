@@ -4,7 +4,7 @@ tags:
 - "#meta"
 ---
 
-# Why Did I Make This Site?
+## Why Did I Make This Site?
 
 In the spring of 2020, I began to take the question 'how does mind emerge from matter' quite seriously. I was taking Prof. John Vervaeke's Introduction to Cognitive Science, and John is excellent at making convoluted discussions incredibly enticing. The question that was the most salient to me was not one of the necessary and sufficient conditions for mindedness, or the most simple functional form of cognition (although these are very interesting topics), it was *how mind emerges from matter.*
 
@@ -27,7 +27,7 @@ Two years (and some) later, and I have learned many very useful skills and very 
 
 After years of waiting, of learning and preparing to be able to empirically study the dynamics of complex systems, I have decided to make the opportunity to study these systems for myself. The purpose of this site is to house those explorations.
 
-# On Humility
+## On Humility
 Since I am performing most of this study on my own, I need to be quite careful with regard to how I speak, as it must not be too authoritative. I will be exploring intuitions quite genuinely. I will likely find my intuitions to be incorrect, and that's a large part of the point. I want this site to be a record of my progression. I hope I often find my intuitions to be wrong, since that means I'm learning.
 
 I think there is something very interesting that comes with developing a concept, realizing its flaws, and iterating further. This iteration is a part of the scientific process that is not often highlighted. Writing about the ways that scientists are grossly wrong 10 times before coming upon a reasonable theory. I can only aim to exemplify and encourage this kind of healthy self-skepticim.

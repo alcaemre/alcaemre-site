@@ -1,6 +1,6 @@
 ---
 title: "Complex System"
 tags:
-- "doing-vs-being"
+- "#jargon"
 ---
-A complex system has behavior that is [[emergence|emergent]] from its constituent parts
+A complex system has behavior that is [[jargon/emergence|emergent]] from its constituent parts

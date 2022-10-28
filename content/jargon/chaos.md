@@ -1,5 +1,7 @@
 ---
 title: "chaos"
+tags:
+- "#jargon"
 ---
 Chaos is a high degree of sensitivity to initial conditions.
 
