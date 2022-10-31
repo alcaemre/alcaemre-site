@@ -33,7 +33,7 @@ Parts 1. and 2. are building up that this 'product' must be able to represent in
 ## Two Bushes Trimmed to the Shape of Two Elephants
 In Dennett's *Real Patterns*, there is a quote from Quine, that is quite tragically left to a footnote. Quine says:
 
->"Different persons growing up in the same language are like different bushes trimmed and trained to take the shape of identical elephants. The anatomical details of twigs and branches will fulfill the elephantine form differently from bush to bush, but the overall outward results are the same." Word and Object (Cambridge: MIT, 1960), p, 8.
+>"Different persons growing up in the same language are like different bushes trimmed and trained to take the shape of identical elephants. The anatomical details of twigs and branches will fulfill the elephantine form differently from bush to bush, but the overall outward results are the same." (Quine, 1960, 8)
 
 This quote sums up my problem with both functionalism and Eliminative materialism. To look only at the shape of the bush from the outside misses the very important internal structure of branches and roots. We are not Laplace's demon, we cannot look only at the structure of the branches and roots and determine the overall shape. The kernel is too small or too big. The Eliminative Materialists keep too much, and the Functionalists keep too little.
 
