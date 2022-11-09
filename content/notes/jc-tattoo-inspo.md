@@ -45,12 +45,19 @@ Another famous example of self-similarity in plants is in ferns. This is a mathe
 ![Fractal_fern_explained.png](images/Fractal_fern_explained.png)
 
 Real ferns are self-similar in slightly less perfect ways, but still self-similar. Here are some examples
+
 ![fiddlehead-2.jpeg](images/fiddlehead-2.jpeg) 
+
 Not only the central branch coils up, but also the smaller 'leaf' branches as well. This image is not particularly fractal, but demonstrates this leaf-coiling well.
+
 ![fiddlehead-3.jpeg](images/fiddlehead-3.jpeg)
+
 Here is a photo of a fern that I took in pacific spirit park, near my home in Vancouver. Notice how the leaves are little ferns in themselves.
+
 ![van-fern.jpg](images/van-fern.jpg)
+
 Or, also in my neighborhood at home, the branches of trees exhibit fractal branching patterns
+
 ![van-snow-branches.jpg](images/van-snow-branches.jpg)
 
 Lichens also exhibit some of the most incredible fractal behavior. This is another example found on the underside of a tree in Vancouver.
@@ -63,4 +70,4 @@ Or, in much more incredible fashion, these are lichens from Meare's island close
 
 At this level, they really start to take alien form, like plants from a different planet.
 
-I'm absolutely not expecting all (or any) of these fractal points to end up in my tattoo. If it could, I think it would be super cool, but I also imagine it would take a lot of work. I got a little carried away once I started looking into it, but I think it super cool and pretty stuff.
+I'm absolutely not expecting all (or any) of these fractal points to end up in my tattoo. If it could, I think it would be super cool, but I also imagine it would take a lot of work. I got a little carried away once I started looking into it, but I think it super cool and pretty.
