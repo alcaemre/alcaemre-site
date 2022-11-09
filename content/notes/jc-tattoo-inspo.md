@@ -54,15 +54,15 @@ Not only the central branch coils up, but also the smaller 'leaf' branches as we
 
 Here is a photo of a fern that I took in pacific spirit park, near my home in Vancouver. Notice how the leaves are little ferns in themselves.
 
-![van-fern.jpg](images/van-fern.jpg)
+![van-fern.png](images/van-fern.png)
 
 Or, also in my neighborhood at home, the branches of trees exhibit fractal branching patterns
 
-![van-snow-branches.jpg](images/van-snow-branches.jpg)
+![van-snow-branches.png](images/van-snow-branches.png)
 
 Lichens also exhibit some of the most incredible fractal behavior. This is another example found on the underside of a tree in Vancouver.
 
-![van-lichen.jpg](images/van-lichen.jpg)
+![van-lichen.png](images/van-lichen.png)
 
 Or, in much more incredible fashion, these are lichens from Meare's island close to Tofino, one of the last untouched old growth forests in Canada. These lichens are likely hundreds of years old
 
