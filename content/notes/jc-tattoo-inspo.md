@@ -36,7 +36,7 @@ You can see that as the image zooms in, the structure of the pattern is maintain
 
 Many living systems exhibit self-similar behavior. This is a romenesco cauliflower
 
-![Romanesco-Cauliflower.jpeg](Romanesco-Cauliflower.jpeg)
+![roma-cal.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flickr_-_cyclonebill_-_Romanesco.jpg/1600px-Flickr_-_cyclonebill_-_Romanesco.jpg)
 
 Notice that the small knobs exhibit the same behavior as the whole head of the cauliflower, and the knobs on each knob follow that same pattern as well. 
 
