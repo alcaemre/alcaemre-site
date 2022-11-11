@@ -3,11 +3,11 @@ title: "TAME"
 tags:
 - "COG499"
 ---
-## Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds
+# Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds
 Michael Levin (2022)
 > [link to paper](https://www.frontiersin.org/articles/10.3389/fnsys.2022.768201/full)
 
-### Introduction
+## Introduction
 
 - All cognitive agents are collective intelligences
 - cognition is not only self reflexive advanced cognition or metacognition, but also recognizes adaptive responsiveness and actions of different levels of sophistication
@@ -15,7 +15,7 @@ Michael Levin (2022)
 	- #### What is the axis of persuadability? What is its relationship with the intentional stance?
 		- "Persuadabilty refers to the type of conceptual and practical tools that are optimal to rationally modify a given system’s behavior." (4)
 
-### Cognition: Changing the Subject
+## Cognition: Changing the Subject
 
 - "The embodied nature of cognition means that mental Selves are dependent on a highly plastic material substrate which changes not only on evolutionary time scales but also during the lifetime of the agent itself." (5)
 	- the Self is subject to significant change in real time
@@ -27,12 +27,17 @@ Michael Levin (2022)
 	- #### check back on [42; 43; 44; 45] for what sensory substitution is
 - Hybrots (hybrid robots and animals) plates of neurons can learn how to fly a flight simulator [53; 54; 55]
 
+## TAME: A Proposal For A Framework
+
 ### Philosophical Foundations of an Approach to Diverse Intelligences
 
-- a commitment to gradualism with respect to all important cognition-related properties
+1. a commitment to gradualism with respect to all important cognition-related properties
 	- there is no true clear line that demarcates 'true cognition' from 'just physics'
-- example of issue: bilogically evolved froms have intrinsic motivation while software AI agents are only faking it *via functional performance*
-	- but do fish or single cells or mitochondria *actually care*? 
+	- example of issue: bilogically evolved froms have intrinsic motivation while software AI agents are only faking it *via functional performance*
+		- but do fish or single cells or mitochondria *actually care*? 
 	- if we make hybrids of robots and cells how many cells does the system need before that living system's 'true' cognition extends to the whole system?
-- There is no privileged material substrate for Selves
-	- 
+2. There is no privileged material substrate for Selves
+	- basel cognition (cognition in single cells, plants, animal tissues, swarm robotics) suggests the 'big vertabrate brain' is not a necessary condition for cognition
+	- natural evolution is not the ony acceptable origin story form a true Agent 
+	- evolution is a blind hill climbing algorithm, with no understanding of how small scale changes influence large scale emergent outcomes. If this process can give rise to true minds, so can a rational engineering approach.
+3. The Measure of Agency is not a philosophical question. It is an empirical one.
