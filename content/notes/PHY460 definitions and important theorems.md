@@ -51,7 +51,7 @@ tags:
 - where $\dot{x}=0$ or $\dot{y} = 0$ 
 - includes nullclines, which are lines where one variable has time progression and the other doesn't
 ### Fixed points
-- a point $(x^*,y^*)$ where $(\dot{x}, \dot{y}) = (0,0)$
+- a point where $(\dot{x}, \dot{y}) = (0,0)$
 - i.e. there is no time progression
 ### Phase Portrait
 - graph of the overall trajectories in phase space (not all trajectories, just the qualitatively demonstrative ones)
@@ -64,19 +64,21 @@ tags:
 - Found by finding the eigenvalues of the Jacobian matrix at the fixed point $$A = \begin{pmatrix}
   \frac{\partial \dot{x}}{\partial x} && \frac{\partial \dot{x}}{\partial y} \\
   \frac{\partial \dot{y}}{\partial x} && \frac{\partial \dot{y}}{\partial y}
-  \end{pmatrix}$$ Once you have found this matrix, plug in $(x^*, y ^*)$ and find the eigenvalues
+  \end{pmatrix}$$
+	- Once you have found this matrix, plug in $(x^\*, y^\*)$ and find the eigenvalues
 - these eigenvalues can be found by taking the trace $\tau$ and determinant $\Delta$ of $A$ $$\begin{split} 
   \tau &= a + b \\
   \Delta & = ad-bc
-  \end{split}$$ and plugging these values into the quadratic equation$$\lambda_{1,2} = \frac{\tau \pm \sqrt{\tau^2 - 4\Delta}}{2}$$ There are a few cases that these fixed points can have based on their eigenvalues. When the eigenvalues are purely real and distinct ($\lambda_1 \neq \lambda_2$, $\tau^2 - 4 \Delta > 0$):
-		- if $\lambda_1, \lambda_2 > 0$ **stable node**
-		- if $\lambda_1, \lambda_2 < 0$ **unstable node**
-		- if the eigenvalues are of opposite sign, the fixed point is a saddle
-	In all of these cases, the trajectories become parallel with the eigendirection (span of eigenvector) of greatest norm. When the eigenvalues are complex ($\tau^2 - 4 \Delta < 0) 
-		- if the eigenvalues are complex but not purely imaginary ($\tau \neq 0$) the fixed point is a **spiral** with stability found by analyzing the sign of the real componant
+  \end{split}$$ and plugging these values into the quadratic equation$$\lambda_{1,2} = \frac{\tau \pm \sqrt{\tau^2 - 4\Delta}}{2}$$
+- There are a few cases that these fixed points can have based on their eigenvalues. When the eigenvalues are purely real and distinct ($\lambda_1 \neq \lambda_2$, $\tau^2 - 4 \Delta > 0$) we have
+	- if $\lambda_1, \lambda_2 > 0$ **stable node**
+	- if $\lambda_1, \lambda_2 < 0$ **unstable node**
+- if the eigenvalues are of opposite sign, the fixed point is a saddle
+	In all of these cases, the trajectories become parallel with the eigendirection (span of eigenvector) of greatest norm. When the eigenvalues are complex ($\tau^2 - 4 \Delta < 0$) 
+	- if the eigenvalues are complex but not purely imaginary ($\tau \neq 0$) the fixed point is a **spiral** with stability found by analyzing the sign of the real componant
 		- if the eigenvalues are purely imaginary ($\tau = 0$) the fixed point is a **centre**, with a family of closed obits around it (these orbits are never attractors or repellers, each trajectory stays isolated in its original closed orbit)
-	If $\lambda_1 = \lambda_2$ there is only one eigenvalue, and there are new cases
-		- if there are still 2 eigenvectors, every vector is an eigenvector with the same eigenvalue and the fixed point is a **star**, stable if $\lambda < 0$, unstable if $\lambda > 0$ 
+- If $\lambda_1 = \lambda_2$ there is only one eigenvalue, and there are new cases
+	- if there are still 2 eigenvectors, every vector is an eigenvector with the same eigenvalue and the fixed point is a **star**, stable if $\lambda < 0$, unstable if $\lambda > 0$ 
 		- if there is only one eigenvector, the fixed point is a **degerate node** and all trajectories become parallel with this single eigendirection
 ## Borderline cases for linear stability analysis-referring to nonlinear terms
 - For the borderline cases (centres, stars, nodes, i.e. when there are not two eigenvalues of distinct magnitude), the conclusions of linear stability analysis can turn out to be wrong when considering nonlinear terms
@@ -89,7 +91,7 @@ tags:
 - this implies that the system cannot have any attracting points
 - conservative systems have a way of asserting that a nonlinear centre is truly a centre. 
 	- if a system has a conserved quantity, and stability analysis says its a centre, than it is a centre even when considering nonlinear terms
-	- if the fixed point $\vec{x}^*$ is a local miniumun of $E$ then all trajectories sufficiently close to $\vec{x}^*$ are closed
+	- if the fixed point $\vec{x}^\*$ is a local miniumun of $E$ then all trajectories sufficiently close to $\vec{x}^\*$ are closed
 ### Homoclinic Orbits
 - trjectories that begin and end at the same fixed point
 - take infinite time to leave, and to return
@@ -127,7 +129,7 @@ tags:
 	- if $\vec{x}^*$ is a stable or unstable node, or a spiral, or a centre, $I_C = +1$
 	- if $\vec{x}^*$ is a saddle, $I_C = -1$
 ### Index of a curve enclosing $n$ fixed points
-- If $C$ ncloses $n$ fixed points $x_1^*, x_2^*, ... , x_n^*$, then $I_C = I_1 + I_2 + ... + I_n$ 
+- If $C$ ncloses $n$ fixed points $x_1^\*, x_2^\*, ... , x_n^\*$, then $I_C = I_1 + I_2 + ... + I_n$ 
 	- this is because any arbitrarily small curves around non-fixed points have $I_C = 0$, meaning only the curves enclosing fixed points constribute. Then by the additive property, we take the sum.
 ### Limit Cycle
 - A limit cycle is an isolated closed trajectory
@@ -138,8 +140,8 @@ tags:
 - limit cycles are impossible on gradient systems
 ### Liapunov Functions
 - A Liapunov function is a continuously differentiable, real valued function $V(\vec{x})$ where
-	- $V(\vec{x})>0$ for all $\vec{x} \neq \dot{\vec{x}}$, and $V(\vec{x}^*) = 0$ (positively definate)
-	- $\dot{V} < 0$ for all $\vec{x} \neq \vec{x}^*$ (all trajectories flow toward $\vec{x}^*$ 
+	- $V(\vec{x})>0$ for all $\vec{x} \neq \dot{\vec{x}}$, and $V(\vec{x}^\*) = 0$ (positively definate)
+	- $\dot{V} < 0$ for all $\vec{x} \neq \vec{x}^*$ (all trajectories flow toward $\vec{x}^\*$) 
 - If a liapunov function is found for a fixed point, it must be globally asymptotically stable for all initial conditions $\vec{x}(t) \rightarrow \vec{x}^*$ and thus the system must have no closed orbits 
 - requires divine inspiration to find Liapunov functions
 ### Dulac's Criterion
