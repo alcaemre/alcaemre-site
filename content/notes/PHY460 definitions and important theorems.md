@@ -39,7 +39,7 @@ tags:
 ### Nondimensionalization
 - This is the substitution $t=T\tau$ where $\tau$ is the dimensionless time and $T$ is the characteristic timescale
 - the nondimensionalized system makes relationships easier to notice, since it reduces the number of parameters we need to be concerned with, and can identify those individual parameters later
-## 2-Dimensional Definitions and Theorems
+## 2-Dimensional Stability
 ### 2-dimensional system
 - system of differential equations $$\begin{cases}
   \dot{x} &= f(x,y) \\
@@ -80,7 +80,7 @@ tags:
 - If $\lambda_1 = \lambda_2$ there is only one eigenvalue, and there are new cases
 	- if there are still 2 eigenvectors, every vector is an eigenvector with the same eigenvalue and the fixed point is a **star**, stable if $\lambda < 0$, unstable if $\lambda > 0$ 
 		- if there is only one eigenvector, the fixed point is a **degerate node** and all trajectories become parallel with this single eigendirection
-## Borderline cases for linear stability analysis-referring to nonlinear terms
+### Borderline cases for linear stability analysis-referring to nonlinear terms
 - For the borderline cases (centres, stars, nodes, i.e. when there are not two eigenvalues of distinct magnitude), the conclusions of linear stability analysis can turn out to be wrong when considering nonlinear terms
 	- For stars and nodes, stability does not change, but for centres it can
 		- this can be resolved by tranforming into polar coordinates and seeing if the radius is increasing or decreasing monotonically with time. If this is true, the point is a spiral
@@ -131,6 +131,7 @@ tags:
 ### Index of a curve enclosing $n$ fixed points
 - If $C$ ncloses $n$ fixed points $x_1^\*, x_2^\*, ... , x_n^\*$, then $I_C = I_1 + I_2 + ... + I_n$ 
 	- this is because any arbitrarily small curves around non-fixed points have $I_C = 0$, meaning only the curves enclosing fixed points constribute. Then by the additive property, we take the sum.
+## Limit Cycles and building up to Chaos
 ### Limit Cycle
 - A limit cycle is an isolated closed trajectory
 - neighbouring trajectories spiral into or out of limit cycles
@@ -210,5 +211,6 @@ tags:
 ### Infinite Period Bifurcations
 ### Homoclinic Bifurcations
 ### Pointcaré maps
+## Chaos
 ### Lorenz System
 ### Chaos
