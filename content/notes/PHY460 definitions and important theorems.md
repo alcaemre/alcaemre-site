@@ -13,6 +13,9 @@ tags:
 -  $\forall x, y \in (a, b), |v(x) - v(y)| < k |x-y|$ 
 - this implies that $v(x)$ is continuous and a finite derivative exists almost anywhere $$ \frac{|v(x)-v(y)|}{|x-y|}<k, \ k\text{ being a finite number} $$
 - this effectively means that solutions reach a fixed point in finite time
+### Characteristic Time Scale
+- The characterisitic time scale is the time required for $x(t)$ to vary significantly from $x^\*$ 
+- the characteristic time scale is $\frac{1}{f'(x)}$ calculated at $x^\*$ 
 ### Bifurcation
 - quantitative change in behaviour
 	- creation or destruction of fixed points
@@ -208,9 +211,89 @@ tags:
 		- if $\mu = 0$ the origin is a centre surrounded by a family of closed orbits (making this not quite a true Hopf Bifurcation)
 		- if $\mu < 0$ the origin is an unstable spiral
 - Degenerate Hopf Bifurcations typically happen when a nonconservative system suddenly becomes conservative at $\mu_c$. In this case, the origin becomes a nonlinear centre rather than the weak spiral required by a Hopf Bifurcation
+### Saddle-Node Bifurcation of Cycles
+- A saddle-node bifurcation of lmit cycles is where two limit cycles coalesce and annihilate
+- Prototype: $$\begin{cases}
+  \dot{r} &= \mu r + r^3 - r^5 \\
+  \dot{\theta} &= \omega + br^2
+  \end{cases}$$
+- the projection onto the $(r, \dot{r})$ plane looks like a saddle-node bifurcation in the region of the plane
+	- for $\mu < \mu_c$ there is a stable spiral towards the fixed point
+	- at $\mu = \mu_c$ a half-stable limit cycle appeears
+	- for $0 > \mu > \mu_c$ the half stable cycle splits into an smaller amplitude unstable cycle and a larger amplitude stable cycle
+	- The origin remains a stable spiral in all cases
 ### Infinite Period Bifurcations
+- An infinite period bifurcation is where a stable limit cycle slows down until a fixed point emerges and the limit cycle has an infite period
+- Prototype: $$\begin{cases}
+  \dot{r} &= r(1-r^2) \\
+  \dot{\theta} &= \mu- \sin\theta
+  \end{cases}$$
+	- for $\mu > 1$ the trajectory slows down in the neighbourhood of $\theta = \pi/2$ as $\mu$ is decreases
+	- at $\mu=1$ a semi-stable fixed point emerges and the time needed to traverse the whole limit cycle becomes infinite (hence the name)
+	- for $\mu < 1$ the semi-stable fixed point splits into a saddle and a stable node that seperate along the trajectory, each trajectory taking infinite time to traverse
 ### Homoclinic Bifurcations
+- Homoclinic Bifurcations are a sub-class of homoclinic Bifurcations
+- Homoclinic bifurcations occur when a limit cycle approaches a saddle point, making a homoclinic orbit
+- Prototype: $$\begin{cases}
+  \dot{x} &= y \\
+  \dot{y} &= \mu y + x - x^2 + xy
+  \end{cases}$$
+	- For $\mu < \mu_c$ there is a saddle point at the origin, and a stable limit cycle orbiting an unstable spiral at $x=1$ with increasing amplitude as $\mu$ is increases
+	- at $\mu = \mu_c$ the limit cycle touches the saddle point and becomes a homoclinic orbit
+	- for $\mu > \mu_c$ the limit cycle is destroyed
+### Quasiperiodicity
+- A quasiperiodic flow is a flow that endlessly winds around a phase space, never intersecting itself, but also never closing
+- quasiperiodic flows are dense
+	- each trajectory comes arbitrarily close to any given point on the torus
+- prototype: uncoupled oscillators with the form $\dot{\theta}_1 = \omega_1, \dot{\theta}_2 = \omega_2$ where $\omega_1/\omega_2$ is irrational
 ### Pointcaré maps
+- Take $S$ to be an $n-1$ dimensional surface that is transverse to the flow (i.e. all trajectories starting on $S$ flow through it)
+- the Pointcaré map $P$ makes from $S$ to itself where if $x_k \in S$ then $x_{k+1} = P(x_k)$ 
 ## Chaos
-### Lorenz System
+### Lorenz System/equations
+- the set of equations following the form $$\begin{cases}
+  \dot{x} &= \sigma (y-x) \\
+  \dot{y} &= rx-y-xz \\
+  \dot{z} &= xy-bz
+  \end{cases}$$ where $\sigma, r, b>0$ are parameters
+- the lorenz equations perfectly model a Malkus waterwheel, as well as being present in lasers, dynamos, and a simple model of convection rolls in the atmosphere
+- has a fractal phase space
+- prototype of chaos
+### Liapunov exponant
+- the Liapunov exponant $\lambda$ is a measure of the rate that two trajectories on an attractor diverge (the difference is $\delta(t)$)
+	- $||\delta(t)|| \approx ||\delta_0|| e^{\lambda t}$ 
+- A requirement for an attractor to be strange is that it must have a positive Liapunov exponant (i.e. any two trajectories should diverge exponantially with time)
+- the term is sloppy because:
+	- an $n$-dimensional system has $n$ Liapunov exponants. Our $\lambda$ is actually the largest of these exponants
+	- $\lambda$ depends on which trajectory we study, leading to inconclusive results in certain cases
 ### Chaos
+- Chaos is an aperiodic long term behaviour in a deterministic system that exhibits a sensitive dependence on initial conditions
+	- (aperiodic) trajectories do not settle down to fixed points, periodic orbits, or quasiperiodic orbits at $t\rightarrow \infty$. These trajectories should occur with nonzero probability (within a set of random initial conditions) or within an open set of initial conditions
+	- (determistic) the irregular behaviour arises from the system's nonlinearity rather than noisy inputs or driving forces
+	- (sensitive to initial conditions) neighbouring trajectories seperate exponentially fast (the system has a positive liapunov exponant)
+### Attractor
+- An attractor is a closed set $A$ with the following properties
+	- A is an invariant set
+		- a point that starts in $A$ stays in $A$ for all time
+	- $A$ attracts an open set of initial conditions
+		- define the open set $U$ where for any initial condition $\vec{x}(0)$ the distance from $\vec{x}(t)\rightarrow 0$ as $t \rightarrow \infty$ 
+	- $A$ is minimal
+		- there is no proper subset of $A$ that satisfies the first two conditions
+### Strange Attractor
+- A strange attractor is an attractor that exhibits a sensitive dependence on initial conditions (i.e. trajectories that fall into it are chaotic)
+### Maps
+- An iterated map is a discrete function where $x_{k+1} = f(x_k)$ 
+- a sequene of a map $x_1, x_2, ... , x_n$ is called an orbit
+- useful for
+	- analyzing differential equations (e.g. Poincaré maps)
+	- modelling natural phenomena with discrete timesteps and non-overlapping generations
+	- simple examples of chaos
+### Stability of Maps
+- $x^\*$ is a fixed point if $x_{n+1} = f(x_n) = x_n = x^\*$ 
+- the equialent of an eigenvalue for a map is the **multiplier** $\lambda = f'(x)$ 
+	- if $|\lambda| < 1$ the point is **linearly stable**
+	- if $|\lambda| > 1$ the point is **unstable**
+	- if $|\lambda| = 1$ the point is **marginal** and has its stability determined by higher order terms
+	- if $\lambda = 0$ the point is **superstable**
+
+## Concepts with Derrivations
